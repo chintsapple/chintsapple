@@ -1,5 +1,9 @@
 ### Hi there 👋
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I like to write in <s>Python</s> Code and I'm exploring AI/ML Gaming :video_game: ☁️ </samp></h4>
 
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 <!-- ![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
 
 <p  align="center">
