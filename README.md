@@ -1,7 +1,6 @@
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I like to write in <s>Python</s> Code and I'm exploring AI/ML Gaming :video_game: ☁️ </samp></h4>
 
 ![Under Construction](https://raw.githubusercontent.com/ferricoxide/ferricoxide/master/images/Under-Construction-Sign.png)
-![odoo](https://w7.pngwing.com/pngs/257/634/png-transparent-odoo-enterprise-resource-planning-open-source-software-business-productivity-software-computer-software-business-purple-violet-text.png)
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
